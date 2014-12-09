@@ -1,0 +1,9 @@
+
+*.user
+*.suo
+*.DotSettings
+*.nupkg
+bin
+obj
+packages
+publish

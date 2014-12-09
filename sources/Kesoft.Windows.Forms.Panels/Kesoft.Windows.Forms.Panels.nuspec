@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>$author$</authors>
+    <owners>$author$</owners>
+    <licenseUrl>http://kesoft.net/nuget/Kesoft.Windows.Forms.Panels.License.txt</licenseUrl>
+    <projectUrl>https://github.com/guang810828/Kesoft.Windows.Forms.Panels</projectUrl>
+    <iconUrl>http://kesoft.qiniudn.com/kesoft.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>$description$</description>
+    <releaseNotes>Release</releaseNotes>
+    <summary>Custom panels</summary>
+    <copyright>$copyright$</copyright>
+    <tags>Windows Forms Panel Progressbar</tags>
+  </metadata>
+</package>
